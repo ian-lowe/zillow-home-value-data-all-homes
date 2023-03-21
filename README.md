@@ -1,1 +1,1 @@
-# Zillow Home Value Index (ZHVI) for All Home Types, Seasonally Adjusted
+# Zillow Home Value Index (ZHVI) for All Home Types, Seasonally Adjusted by County
